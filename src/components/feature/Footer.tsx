@@ -135,12 +135,12 @@ export default function Footer() {
               { 
                 icon: 'ri-facebook-fill', 
                 label: 'Facebook', 
-                href: 'https://www.facebook.com/KevinCompanyRealEstate/?ref=PROFILE_EDIT_xav_ig_profile_page_web#' 
+                href: 'https://www.facebook.com/p/LV-Homes-LTD-100087783500366/' 
               },
               { 
                 icon: 'ri-instagram-line', 
                 label: 'Instagram', 
-                href: 'https://www.instagram.com/lvhomes' 
+                href: 'https://www.instagram.com/l.v_homes_ltd/reels/' 
               }
             ].map((social) => (
               <a 
