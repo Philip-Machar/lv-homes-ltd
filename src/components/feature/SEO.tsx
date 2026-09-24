@@ -14,10 +14,10 @@ interface SEOProps {
 export default function SEO({ 
   title, 
   description, 
-  name = "Kevlin & Company", 
+  name = "L.V HOMES LTD", 
   type = "website", 
   image = "/logo.jpg", 
-  url = "https://www.Kevlinhomes.com", 
+  url = "https://www.lvhomes.com", 
   schema 
 }: SEOProps) {
   return (
